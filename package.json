@@ -6,7 +6,8 @@
     "test": "test.js",
     "start": "nodemon app.js",
     "react": "cd react && npm start",
-    "react:build": "cd react && npm run build"
+    "react:build": "cd react && npm run build",
+    "heroku-postbuild": "npm run start"
   },
   "author": "Krystian John Dumapit",
   "license": "MIT",

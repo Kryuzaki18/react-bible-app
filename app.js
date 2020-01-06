@@ -35,11 +35,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 // Allowed Oringins
-const allowedOrigins = [
-  "https://react-bible-app.herokuapp.com",
-  "http://localhost:3000",
-  "http://localhost:" + port
-];
+const allowedOrigins = ["http://127.0.0.1:3000", "http://127.0.0.1:" + port];
 app.use(
   cors({
     origin: (origin, callback) => {
