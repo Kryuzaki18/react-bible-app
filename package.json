@@ -10,7 +10,7 @@
     "start": "nodemon app.js",
     "react": "cd react && npm start",
     "react:build": "cd react && npm run build",
-    "heroku-postbuild": "npm run start"
+    "heroku-postbuild": "npm install"
   },
   "author": "Krystian John Dumapit",
   "license": "MIT",
