@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.879a9c89.chunk.css",
+    "main.js": "/static/js/main.22703241.chunk.js",
+    "main.js.map": "/static/js/main.22703241.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.84168c47.js",
+    "runtime-main.js.map": "/static/js/runtime-main.84168c47.js.map",
+    "static/js/2.61bb356c.chunk.js": "/static/js/2.61bb356c.chunk.js",
+    "static/js/2.61bb356c.chunk.js.map": "/static/js/2.61bb356c.chunk.js.map",
+    "static/js/3.45993847.chunk.js": "/static/js/3.45993847.chunk.js",
+    "static/js/3.45993847.chunk.js.map": "/static/js/3.45993847.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f746b051b13b7c564ec3bb5d727fc615.js": "/precache-manifest.f746b051b13b7c564ec3bb5d727fc615.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.879a9c89.chunk.css.map": "/static/css/main.879a9c89.chunk.css.map",
+    "static/media/App.css": "/static/media/Roboto-Regular.11eabca2.ttf",
+    "static/media/clear.svg": "/static/media/clear.cad7540d.svg",
+    "static/media/reload.svg": "/static/media/reload.c738b26a.svg",
+    "static/media/search.svg": "/static/media/search.b9249aa3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84168c47.js",
+    "static/js/2.61bb356c.chunk.js",
+    "static/css/main.879a9c89.chunk.css",
+    "static/js/main.22703241.chunk.js"
+  ]
+}
