@@ -12,7 +12,7 @@ import Searchbar from "./Searchbar";
 const Verses = React.lazy(() => import("./Verses"));
 
 // const apiBaseUrl = "http://127.0.0.1:7777/v1";
-const apiBaseUrl = "https://react-bible-app.herokuapp.com/v1";
+const apiBaseUrl = "https://the-bible-kjv.herokuapp.com/v1";
 
 export default () => {
   const [isCollapse, setCollapse] = useState(false);
